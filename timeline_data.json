@@ -1,0 +1,184 @@
+{
+    "title": {
+	    "media": {
+          "url": "img/ks.jpg",
+          "caption": "",
+          "credit": ""
+        },
+        "text": {
+          "headline": "자기 소개 포트폴리오<br/>",
+          "text": "<p class='text_head_20'>김규수</p><p>서울 출생 (1987)</br>현재 강서구 방화동 거주</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "img/goldstar_symphony.png",
+          "caption": "금성 심포니 컴퓨터",
+          "credit": "<span class='span_10'><a href='https://ko.wikipedia.org/wiki/%EA%B8%88%EC%84%B1%EC%82%AC' target='_blank'>금성사(GoldStar)</a></span>"
+        },
+        "start_date": {
+          "year": "1994"
+        },
+        "text": {
+          "headline": "</br>첫 컴퓨터</br>",
+          "text": "<p class='text_head_20'>금성 심포니 486 컴퓨터</p><p class='text_head_14'>국민학교 1학년 때 부모님께서 거금들여 사주신 컴퓨터, 구입당시 OS는 Windows3.1</p><p>[즐겨하던 게임]</br>대항해시대2 / 삼국지4 / 프린세스메이커2</p><p>[옛날 추억]</br>1. 게임 구동을 위해 의미도 모르고 게임피아 잡지에 나온대로 HIMEM.SYS, EMM386.EXE를 따라적곤 했음. </br>2. Hex 에디터로 게임 내 돈을 늘리기위해 16진수를 공부 함.</p>"
+        }
+      },	
+      {
+        "media": {
+          "url": "img/konkuk_univ.jpg",
+          "caption": "건국대학교 캠퍼스",
+          "credit": "<span class='span_10'><a href='http://www.konkuk.ac.kr' target='_blank'>Konkuk Univ.</a></span>"
+        },
+        "start_date": {
+          "month": "3",
+          "year": "2006"
+        },
+		"end_date": {
+          "month": "2",
+          "year": "2013"
+		},
+        "text": {
+          "headline": "</br>건국대학교</br> 컴퓨터공학과</br>",
+          "text": "<p>입학 2006년 - 졸업 2013년</p></br><p>[수강 언어]</br>일본어, 스페인어, C, C++, JAVA</p><p>[컴퓨터 이론]</br>자료구조, 시스템프로그래밍, 소프트웨어공학, 알고리즘, 운영체제, 데이터베이스, 데이터통신, 컴퓨터회로 등.. </p></br><p><a href='doc/course_credit.pdf' target='_blank'><span class='link'>취득학점확인원 (click to view)</span></a></br><a href='doc/course_credit.pdf' target='_blank'><img src='img/cource_credit_thumbnail.png'/></a></p>"
+        }
+      },	  
+	  {
+        "media": {
+          "url": "img/ROKAF.png",
+          "caption": "공군 로고",
+          "credit": "<span class='span_10'><a href='https://www.facebook.com/rokairforce/' target='_blank'>Republic Of Korea Air Force</a></span>"
+        },
+        "start_date": {
+		  "day": "26",
+          "month": "11",
+          "year": "2007"
+        },
+		"end_date": {
+		  "day": "18",
+          "month": "1",
+          "year": "2010"
+		},
+        "text": {
+          "headline": "</br>대한민국공군 복무",
+          "text": "<p class='text_head_20'>658기 / 제20전투비행단 / 항공관제레이더 정비</br></p><p>[주요 업무]</br>커피 타기, 라면 끓이기, 거미줄 제거<p>[시즌 업무]</br>제초 & 제설</p><p>[업적]</br>C언어로 레이더 로그 분석기 개발</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "img/cocktail.jpg",
+          "caption": "B-52",
+          "credit": "<span class='span_10'><a href='https://www.youtube.com/channel/UCj62SJuOLVN49NXiEDzm1yw' target='_blank'>I am a bartender</a></span>"
+        },
+        "start_date": {
+          "month": "2",
+          "year": "2010"
+        },
+		"end_date": {
+          "month": "5",
+          "year": "2010"
+		},
+        "text": {
+          "headline": "</br>조주기능사",
+          "text": "<p>칵테일을 마시다가 너무 맛있어서 직접 만들어 마시기 위해, 홍대에서 칵테일 메이킹 수업을 듣고 자격증 취득.</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "img/book.jpg",
+          "caption": "소설 같은 자바",
+          "credit": "<span class='span_10'><a href='http://www.jabook.com/' target='_blank'>현재 페이지는 운영되지 않습니다.</a></span>"
+        },
+        "start_date": {
+          "month": "12",
+          "year": "2010"
+        },
+		"end_date": {
+          "month": "3",
+          "year": "2011"
+		},
+        "text": {
+          "headline": "</br>웹 개발 아르바이트",
+          "text": "<p>겨울방학 기간동안 소설같은자바 저자이자 학교선배님인 최영관 박사님의 사무실에서 아르바이트를 하며 웹 개발 입문.</p><p>[개발환경]</br>넷빈즈 IDE(톰캣 통합) 설치하여 JSP로 개발 / 버전 관리는 Subversion 을 사용 </p><p>[주요 업무]</br>도서 주문 페이지 UI 및 비지니스로직 개발</p><p>이때 MVC 패턴을 전수 받음.</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "img/phonegap.png",
+          "caption": "",
+          "credit": "<span class='span_10'><a href='https://phonegap.com/' target='_blank'>PhoneGap</a></span>"
+        },
+        "start_date": {
+          "month": "9",
+          "year": "2012"
+        },
+		"end_date": {
+          "month": "12",
+          "year": "2012"
+		},
+        "text": {
+          "headline": "</br>취업 도우미 앱 어플리케이션 제작",
+          "text": "<p class='text_head_20'>하이브리드 앱 개발 경험</br></p><p>PhoneGap 사용 하여 개발.</p><p>PhoneGap : HTML, JavaScript, CSS를 사용하여 디바이스 하이브리드 어플리케이션 구축을 위한 오픈소스 프레임워크</p></br><p><a href='report/MobileSoftware_Report.html' target='_blank'><span class='link'>과제레포트(click to view)</span></a></p><p><a href='report/MobileSoftware_Report.html' target='_blank'><img src='img/report_cover.png' /></a></p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "img/G3_Cat6.png",
+          "caption": "G3 Cat.6",
+          "credit": "<span class='span_10'><a href='https://www.lge.co.kr/' target='_blank'>LG Electronics</a></span>"
+        },
+        "start_date": {
+		  "day":"6",
+          "month": "1",
+          "year": "2013"
+        },
+        "end_date": {
+		  "day":"14",
+          "month": "5",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "</br>LG전자 MC사업부 근무",
+          "text": "<p>중저가 보급형 스마트폰 L3,L7 개발</br>프리미엄 라인 스마트폰 G3 Cat.6 개발</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "img/LG_VS.jpg",
+          "caption": "",
+          "credit": "<span class='span_10'><a href='https://www.lge.co.kr/' target='_blank'>LG Electronics</a></span>"
+        },
+        "start_date": {
+		  "day":"15",
+          "month": "5",
+          "year": "2015"
+        },
+        "end_date": {
+		  "day":"12",
+          "month": "6",
+          "year": "2020"
+        },		
+        "text": {
+          "headline": "</br>LG전자 VS사업부 근무",
+          "text": "<p>GM 쉐보레 인포테인먼트 시스템 개발</p>"
+        }
+      },
+	  {
+        "media": {
+          "url": "img/wedding.jpg",
+          "caption": "보타닉파크웨딩 오키드홀",
+          "credit": "<span class='span_10'><a href='http://botanicparkwedding.com/' target='_blank'>BotanicPark Wedding</a></span>"
+        },
+        "start_date": {
+		  "day":"27",
+          "month": "10",
+          "year": "2018"
+        },	
+        "text": {
+          "headline": "</br>결혼",
+          "text": "<p>회사 같은 팀 친구가 시켜준 소개팅으로 만나 1년6개월 연애 후 결혼</p><p>음치인 관계로 결혼식 3개월 전 부터 <a href='http://naver.me/xbtwnYyP' target='_blank'>실용음악학원</a>에서 축가 연습을 함.</p>"
+        }
+      }
+    ]
+}

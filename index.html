@@ -1,0 +1,51 @@
+<html>
+<head>
+	<title>Self-Introduction</title>
+	<meta charset="utf-8" />
+	<link title="timeline-styles" rel="stylesheet" href="css/timeline.css">
+	<script src="js/timeline-min.js"></script>
+	<script src="js/jquery-3.5.0.min.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+		
+	options = {
+		"dragging" : true,
+		"initial_zoom" : 3
+	};	
+		
+	$.getJSON('timeline_data.json', function(timeline_data) {
+		window.timeline = new TL.Timeline('timeline-embed', timeline_data, options);
+	});	
+	
+});
+
+</script>		
+
+<style>
+
+p.text_head_20 {
+	font-size : 20pt;
+}
+
+p.text_head_14 {
+	font-size : 14pt;
+}
+
+.span_10 {
+	font-size : 10pt;
+}
+
+.link {
+	color : blue;
+}
+
+</style>	
+	
+</head>
+
+<body>
+	<div id='timeline-embed' style="width: 100%; height: 100%"></div>
+</body>
+</html>
